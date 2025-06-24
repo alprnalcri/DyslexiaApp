@@ -1,0 +1,18 @@
+[
+  {
+    "text": "alperen",
+    "score": 0.987555205821991,
+    "label": "Easy",
+    "simplified": null,
+    "timestamp": "2025-06-19 23:48:02.248957",
+    "user": "admin"
+  },
+  {
+    "text": "alperen alaçeri olarak ben hata payı olan düşüncelere göre daha spesifik hayaller kumayı tercih editorum",
+    "score": 0.9911279678344727,
+    "label": "Difficult",
+    "simplified": "Ben, hata payı olan düşünceler yerine daha belirgin hayalleri tercih ederim.",
+    "timestamp": "2025-06-19 23:48:32.170292",
+    "user": "admin"
+  }
+]
